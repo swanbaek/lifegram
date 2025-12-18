@@ -1,8 +1,8 @@
-![Lifegram](lifegram_site.png)
-
 # Lifegram
+- Instagram-inspired social media app built with React.
 
-Instagram-inspired social media app built with React.
+![Lifegram](lifegram_site.png)
+----
 
 ![Lifegram](lifegram_site2.png)
 
